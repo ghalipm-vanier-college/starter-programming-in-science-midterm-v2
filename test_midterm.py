@@ -1,3 +1,4 @@
+# DO NOT CHANGE THIS FILE, OR ZERO MARK WILL BE ASSIGNED.
 from Midterm import area_of_parallelogram, sum_upto, lower_left_triangle, hollow_right_parallelogram
 
 # Test Q1: area_of_parallelogram
