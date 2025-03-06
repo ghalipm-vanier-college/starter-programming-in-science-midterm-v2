@@ -1,11 +1,11 @@
 import math
 
-# Q1: Calculate the area of an ellipse
-def area_of_ellipse(a, b):
+# Q1: Calculate the area of an parallelogram
+def (a,b, \theta):
     return 0.0
 
-# Q2: Find the sum of numbers
-def sum_of_numbers(numbers):
+# Q2: Find the sum of numbers from 1 to n (including n)
+def sum_upto(n):
     return 0
 
 # Q3: Upper left triangle
@@ -17,10 +17,10 @@ def hollow_left_parallelogram(n):
     return ""
 
 # ----------------------------------------------------------------
-print(sum_of_numbers([5, 2, 8, 10]))
+print(sum_upto(100))
 print()
 
-print(area_of_ellipse(5, 6))
+print(area_of_parallelogram(5, 6, 30))
 print()
 
 print(upper_left_triangle(2))
