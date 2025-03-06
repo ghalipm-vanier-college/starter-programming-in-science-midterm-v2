@@ -30,8 +30,8 @@ def test_hollow_left_parallelogram():
 
 # Run tests
 if __name__ == "__main__":
-   test_area_of_ellipse()
-   test_sum_of_numbers()
-   test_upper_left_triangle()
-   test_hollow_left_parallelogram() 
+   test_area_of_parallelogram()
+   test_sum_upto()
+   test_lower_left_triangle()
+   test_hollow_right_parallelogram() 
    print("All tests passed!")
